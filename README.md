@@ -155,8 +155,11 @@ Sent 2836 of 2836 bytes
 
 Tips: Log in via picocom (USB) and interrupt the program via ctrl+C.
 
+## Grafana
 
+You can add a grafana dashboard to view the data
 
+![Step final](screenshot/step_final.png)
 
 ## Helping
 
