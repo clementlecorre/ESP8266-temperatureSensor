@@ -11,7 +11,7 @@ Tested On macOS High Sierra
     * Download SLAB_USBtoUART driver [USB to UART Bridge Virtual COM Port (VCP)](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
     * Clone github repo [themadinventor/sptool](https://github.com/themadinventor/esptool)
     * Clone github repo [micropython/webrepl](https://github.com/micropython/webrepl)
-    * bew install picocom
+    * brew install picocom
     * pip install esptool
 
 Plug USB to ESP8266
